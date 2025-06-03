@@ -19,9 +19,13 @@ Bu proje, doktor ve hasta yönetimini kolaylaştırmak amacıyla geliştirilmiş
 
 
 ## 🖼️ Uygulama Görselleri
-
+### Doktor Ekranı
 ![DoktorFormu](https://github.com/user-attachments/assets/d76fbe49-ba06-4715-9d46-fd697cc409a4)
+
+### Hasta Ekranı
 ![HastaFormu](https://github.com/user-attachments/assets/3fb46326-b69d-4a4b-8998-e5dac3ab1aa6)
+
+### Sekreter Ekranı
 ![SekreterFormu](https://github.com/user-attachments/assets/9040d1ea-0f92-477e-8938-78fad4182cd8)
 
 ## 👤 Geliştirici
